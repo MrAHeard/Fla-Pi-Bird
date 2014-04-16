@@ -5,11 +5,11 @@
 
 ###Learning Outcomes
 
-####All Students Are Able To
+* ####All Students Are Able To
 
-####Most Students Are Able To
+* ####Most Students Are Able To
 
-####Some Students Are Able To
+* ####Some Students Are Able To
 
 ###Lesson Summary
 
