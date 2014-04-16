@@ -17,11 +17,12 @@ For this series of lessons, Scratch game saves are provided at various points to
  - Lesson 4 – Scoring points
  - Lesson 5 – Lose conditions
 
-#Licence
+# Licence
+
 Unless otherwise specified, everything in this repository is covered by the following licence:
 
-Creative Commons License
+![Creative Commons License](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
-Fla-Pi Bird by the Allen Heard is licenced under a Creative Commons Attribution 4.0 International License.
+***Fla-Pi Bird*** by the [Allen Heard](http://www.mrheard.co.uk) is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 Based on the mobile game Flappy Bird by Dong Nguyen
