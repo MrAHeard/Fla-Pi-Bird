@@ -52,6 +52,6 @@ Place the word copyright on the board to provoke a discussion on what copyright 
 ![Game over code](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/1%20Graphics/Game%20Over%20Code.JPG?raw=true)  
 The code above hides the game over graphic when the game starts, this graphic will be used later on and sdisplayed when a game ends.  
 * The code for the stage (background) now needs to be added. Here, the code switches to the game intro screen when the game starts. Then the game waits for the space key to be pressed to start the game, when pressed, the game waits 1 second, and then broadcasts a message called start, at this point the background is switched to the playing background. This concludes this lesson.  
-* Students should save the file as '''Fla-Pi Graphics.sb'''  
+* Students should save the file as ```Fla-Pi Graphics.sb```   
 ###Plenary  
 ###Homework
