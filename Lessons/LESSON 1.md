@@ -33,8 +33,10 @@ Place the word copyright on the board to provoke a discussion on what copyright 
 
 * Finally, the graphics for the pipes should be exported, there are nine of these, ensure students import all of these costumes for their pipe sprite.  
 
-![Pipe 1](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Pipes/Pipe1.png?raw=true)
-![Pipe 2](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Pipes/Pipe2.png?raw=true)
-![Pipe 3](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Pipes/Pipe3.png?raw=true)
+![Pipe 1](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Pipes/Pipe1.png?raw=true)  
+![Pipe 2](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Pipes/Pipe2.png?raw=true)  
+![Pipe 3](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Pipes/Pipe3.png?raw=true)  
+![Pipe 4](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Pipes/Pipe4.png?raw=true)  
+![Pipe 5](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Pipes/Pipe5.png?raw=true)  
 ###Plenary  
 ###Homework
