@@ -25,5 +25,10 @@ Place the word copyright on the board to provoke a discussion on what copyright 
   
 ![Fla-Pi Bird Costume 2](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Flappy2.fw.png?raw=true)  
 
+*Students will then import the 3 different costumes from the stage in the same way, these can be found below:  
+
+![Game Intro Screen](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Background.png?raw=true)  
+![Ready Screen](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Ready.fw.png?raw=true)  
+![Game Background](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Background.png?raw=true)  
 ###Plenary  
 ###Homework
