@@ -8,10 +8,10 @@ The objective of this lesson is to understand what code needs to be added to the
 
 ###Learning Outcomes
 
-#### * All Students Are Able To
+#####All Students Are Able To
 Get the bird and the pipe moving the way illustrated.
-* Most Students Are Able To
-Will know how to change the values so that the bird and the pipe move more quickly.
+#####Most Students Are Able To
+Change the values so that the bird and the pipe move more quickly.
 
 ###Lesson Summary
 The lesson will begin with a small discussion on copyright and plagiarism to ensure students understand the importance of crediting original sources when using it for their own purposes.Students will then begin to code a game in Scratch. The code illustrated in this lesson will allow students to successfully get sprites moving on the screen in the direction they need them to in order to fulfil the game.
