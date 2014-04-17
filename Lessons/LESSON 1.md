@@ -31,12 +31,21 @@ Place the word copyright on the board to provoke a discussion on what copyright 
 ![Ready Screen](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Ready.fw.png?raw=true)  
 ![Game Background](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Background.png?raw=true)  
 
-* Finally, the graphics for the pipes should be exported, there are nine of these, ensure students import all of these costumes for their pipe sprite.  
+* Next, the graphics for the pipes should be imported, there are nine of these, ensure students import all of these costumes for their pipe sprite.  
 
 ![Pipe 1](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Pipes/Pipe1.png?raw=true)  
 ![Pipe 2](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Pipes/Pipe2.png?raw=true)  
 ![Pipe 3](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Pipes/Pipe3.png?raw=true)  
 ![Pipe 4](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Pipes/Pipe4.png?raw=true)  
 ![Pipe 5](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Pipes/Pipe5.png?raw=true)  
+![Pipe 6](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Pipes/Pipe6.png?raw=true)  
+![Pipe 7](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Pipes/Pipe7.png?raw=true)  
+![Pipe 8](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Pipes/Pipe8.png?raw=true)  
+![Pipe 9](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Pipes/Pipe9.png?raw=true)  
+
+* Finally, the 'Game Over' graphic should be imported.  
+![Game Over](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/GameOver.fw.png?raw=true)  
+
+* Ok, so that’s the graphics in place, now we need to add some code to the individual elements so that they show at the right time at this very early stage of the game. Fist we will look at the
 ###Plenary  
 ###Homework
