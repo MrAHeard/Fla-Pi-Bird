@@ -19,7 +19,9 @@ The lesson will begin with a small discussion on copyright and plagiarism to ens
 Place the word copyright on the board to provoke a discussion on what copyright is and what the implications of it are. You could then explain that cloning games has become commonplace due to the intricate nature of software law. You only need to look on the appstore for many different versions of seemingly the same game. Highlight that we are going to clone a well-known game, however they students should be aware of the laws around copyright and the consequences of plagiarising someone else’s work and simply passing it off as their creation. The original Flappy Bird game was written by Dong Nguyen and credit must go to him for providing the inspiration and motivation to reproduce a working clone to get students thinking computationally.
 ###Main Development
 * Students will begin by opening scratch and deleting the cat sprite by right clicking on it and choosing delete.
-* They will then choose new sprite and import both costumes for the Fla-Pi Bird. These can be found below:
+* They will then choose new sprite and import both costumes for the Fla-Pi Bird. These can be found below:  
+* Here is how to import graphics.  
+![Imprt Graphic](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Screenshots/Import%20Graphic%20Screen%20Shot.fw.png?raw=true)  
   
 ![Flap-Pi Bird Costume 1](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Flappy.fw.png?raw=true)  
   
