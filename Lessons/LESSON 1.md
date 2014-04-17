@@ -48,6 +48,9 @@ Place the word copyright on the board to provoke a discussion on what copyright 
 * Finally, the 'Game Over' graphic should be imported.  
 ![Game Over](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/GameOver.fw.png?raw=true)  
 
-* Ok, so that’s the graphics in place, now we need to add some code to the individual elements so that they show at the right time at this very early stage of the game. Fist we will look at the
+* Ok, so that’s the graphics in place, now we need to add some code to the individual elements so that they show at the right time at this very early stage of the game. At this stage, the bird and the pipe do not require any code, first we will look at the code to add to the Game Over sprite:  
+![Game over code](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/1%20Graphics/Game%20Over%20Code.JPG?raw=true)  
+
+
 ###Plenary  
 ###Homework
