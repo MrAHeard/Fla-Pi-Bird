@@ -21,7 +21,7 @@ Place the word copyright on the board to provoke a discussion on what copyright 
 * Students will begin by opening scratch and deleting the cat sprite by right clicking on it and choosing delete.
 * They will then choose new sprite and import both costumes for the Fla-Pi Bird. These can be found below:
   
-!Flap-Pi Bird Costume 1](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Flappy.fw.png)
+![Flap-Pi Bird Costume 1](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Flappy.fw.png)
 [Fla-Pi Bird Costume 2](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Flappy2.fw.png)
 ###Plenary 
 ###Homework
