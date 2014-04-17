@@ -23,5 +23,5 @@ Place the word copyright on the board to provoke a discussion on what copyright 
   
 ![Flap-Pi Bird Costume 1](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Flappy.fw.png)
 [Fla-Pi Bird Costume 2](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Flappy2.fw.png)
-###Plenary 
+###Plenary  
 ###Homework
