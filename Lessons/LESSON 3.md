@@ -28,12 +28,13 @@ The first thing to do in this lesson is to get students to make two new variable
 ####Fla-Pi Code  
 Now the variables have been created, we need to add the relevant bits of code into our game. Firstly, in the piece of Fla-Pi bird code that detects a keypress, straight after the ```When I receive Start``` line, place a block setting the Score to 0, this ensures at the start of every new game the score is zero.  
 
-![Bird Start Position](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/2%20Moving%20Sprites/2.3%20Bird%20Code.jpg?raw=true)  
+![Set Score to zero](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/3%20Variables%20and%20Scoring/3.1%20Bird%20Code.jpg?raw=true)  
   
-
-![Bird Costume](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/2%20Moving%20Sprites/2.2%20Bird%20Code.jpg?raw=true)  
+The next piece of code needs to be added to the section we added previously that changes the birds costume, look for this section and add the following code to it.  
+![Point Scoring](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/3%20Variables%20and%20Scoring/3.2%20Bird%20Code.jpg?raw=true)  
   
-
+The code above adds an if loop inside the forever, that checks the value of the variable delay (we will implement this in the pipe code), then beow the ```next costume``` line, an if statement has been added that checks the position of the pipe on the stage, if it has passed Fla-Pi, then a point is scored (you guessed it, still no crashing detection right now!). To ensure the score doesn't increase by more than one point there is a pause of 2 seconds. Again you may not want to tell students about the wait and see if they can work out why  the score is going up rapidly with the passing of one pipe! In the else section of the if statement, we simply stop the script, this ensures that actions in this script stop if the pipe doesn't make it past the bird, used as part of crash detection handling later on.  
+  
 ![Bird Moving Code](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/2%20Moving%20Sprites/2.1%20Bird%20Code.jpg?raw=true)  
   
 
