@@ -43,7 +43,9 @@ Lastly for Fla-Pi, we need to add sounds for when the bird hits a pipe and for w
 ####Stage Code  
 The last sound effect we need to add is the whooshing sound to indicate a new game, this is added to the stage code as shown below:  
 ![Stage Sound Effect](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/5%20Adding%20Sounds/Background%20Code.JPG?raw=true)  
-
+  
+This game should now be saved as Sounds.sb and tested.  
+  
 ###Plenary  
 * Can students come up with any other stages in the game where sound effects could be added?  
 * What kind of sounds would they add?
