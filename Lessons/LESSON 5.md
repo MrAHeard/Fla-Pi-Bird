@@ -26,7 +26,18 @@ Explain to students that sounds in video games play an important part in the who
 
 ###Main Development
 This lesson comprises of adding some provided sounds at specific points in the game to add to the experience. Students may wish to download their own sound effects instead.  
-  
+
 To import sounds for a sprite, click on the sounds tab for that sprite and import the sounds you would like that sprite to be able to access as show below:  
-Firstly, sounds need to be added to the 
+![Import Sounds](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Screenshots/Importing%20Sounds.fw.png?raw=true)  
+  
+####Fla-Pi Code  
+Firstly, sounds need to be added to the bird sprite. We add the sfx_wing to the appropriate code so that the wing flapping noise is played when the up arrow is pressed.  
+![Wing Sound](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/5%20Adding%20Sounds/5.1%20Bird%20Code.jpg?raw=true)  
+  
+Next we need to add code to Fla-Pi for when a pipe is successfully passed and a point is scored, to do this we modify the code previously added to include the sfx_point sound afetr 1 is added to Score:  
+![Point Score Sound](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/5%20Adding%20Sounds/5.2%20Bird%20Code.jpg?raw=true)  
+  
+Lastly for Fla-Pi, we need to add sounds for when the bird hits a pipe and for when it dies, again adding the right sounds to the places in the code previsoulsy used for collision detection:  
+![Collision Sounds](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/5%20Adding%20Sounds/5.3%20Bird%20Code.jpg?raw=true)  
+
 ###Plenary
