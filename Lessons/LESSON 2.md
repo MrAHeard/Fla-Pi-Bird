@@ -25,8 +25,11 @@ Students will implement Scratch code to their previous game save to get the grap
 Talk about the various forms of user interaction in games (controllers, keyboard, gestures, etc). Then show this image on the screen and ask pupils to list any and all movement that could possibly be going on. They should also highlight what user interaction is required to play this game.
 ![Starter Image](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Screenshots/Lesson%202%20starter%20image.jpg?raw=true)
 ###Main Development
-We will start by adding some code to the Fla-Pi bird sprite (make sure it's selected) to get it appearing at the right place on the screen when the game starts.
-![Bird Start Position](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/2%20Moving%20Sprites/2.3%20Bird%20Code.jpg?raw=true)
+We will start by adding some code to the Fla-Pi bird sprite (make sure it's selected) to get it appearing at the right place on the screen when the game starts.  
+![Bird Start Position](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/2%20Moving%20Sprites/2.3%20Bird%20Code.jpg?raw=true)  
+The next piece of code (still in the bird scripts section) will give the impression of movement by changing the costume of the bird to make it look like it's flapping its wings.  
+![Bird Costume](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/2%20Moving%20Sprites/2.2%20Bird%20Code.jpg?raw=true)  
+
 
   
  
