@@ -9,9 +9,9 @@ The main objective of this lesson is to deal with loss conditions in the game.
 ###Learning Outcomes
 
 #####All students are able to
-
+Implement loss conditions to produce a Game Over state in the game.  
 #####Most atudents are able to
-
+Make suitable predictions about what the code will do. 
 
 ###Lesson Summary
 Loss conditions are important in any competitive game, they allow the game to end and suitably be restarted without the need to close and reload the game. In Scratch, when we want a new game, rather than having to press the green flag, it would be great if we could handle this in-game to code a reset facility to allow us to start a new game with very little effort. In completing this lesson, we create and maintain a "Game Over" state.
@@ -46,4 +46,4 @@ Students should predict what effect the following modifications would have on th
 * Not having a 1 second wait in the Game Over script they added.
 * Not changing the delay to 0 when in the pipe code.
 * Not brodcasting GameOver in the Fla-Pi code.  
-* 
+  
