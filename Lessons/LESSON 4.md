@@ -25,7 +25,7 @@ Show students the following video, ask them to consider what counts as a loss in
 Firstly, as always we will look at the code for Fla-Pi, this time we are going to modify one existing code block and we are going to add two new sections. The piece of code with the green flag nees a quick addition, here we are going to change it so that the bird points in the right direction when the game starts.  
 ![Fla-Pi Direction](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/4%20Lose%20Conditions/4.2%20Bird%20Code.jpg?raw=true)  
   
-Now we are going to add the first of our two new code blocks for the bird, the code below is the code that checks throughout the game if the bird is touching the pipe or touching the edge of the stage. If the bird is touching the pipe, the bird points downwards after colliding and continues to travel down the screen. This script then broadcasts the ```Game Over``` message which we will deal with shortly. It then hides the bird and waits 3 seconds. The reason it waits is to allow time for the Game Over script to perform its actions and it stops the bird colliding with further pipes that may come along.  
+Now we are going to add the first of our two new code blocks for the bird, the code below is the code that checks throughout the game if the bird is touching the pipe or touching the edge of the stage. If the bird is touching the pipe, the bird points downwards after colliding and continues to travel down the screen until it is at the bottom. This script then broadcasts the ```Game Over``` message which we will deal with shortly. It then hides the bird and waits 3 seconds. The reason it waits is to allow time for the Game Over script to perform its actions and it stops the bird colliding with further pipes that may come along.  
 
 If the bird is touching the edge of the screen it is forced to point downwards once more and a Game Over message is broadcast.  
 ![Collision Detection](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/4%20Lose%20Conditions/4.1%20Bird%20Code.jpg?raw=true)  
@@ -38,10 +38,12 @@ Now after selecting the Pipe sprite we are going to add one new script that deal
 ![Pipe Game Over](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/4%20Lose%20Conditions/4.1%20Pipe%20Code.jpg?raw=true)  
   
 ####Game Over Code  
-Now we need to add some code to the Game Over sprite to tell it to show when the game is in a state of Game Over. The code for this shows the graphic, waits a second and hides then stps the script.  
+Now we need to add some code to the Game Over sprite to tell it to show when the game is in a state of Game Over. The code for this shows the graphic, waits a second and hides then stops the script.  
 ![Game Over Code](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/4%20Lose%20Conditions/4.1%20Game%20Over.jpg?raw=true)  
-
-####Stage Code  
-
-
+  
 ###Plenary
+Students should predict what effect the following modifications would have on the game:  
+* Not having a 1 second wait in the Game Over script they added.
+* Not changing the delay to 0 when in the pipe code.
+* Not brodcasting GameOver in the Fla-Pi code.  
+* 
