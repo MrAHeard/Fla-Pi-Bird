@@ -29,8 +29,12 @@ We will start by adding some code to the Fla-Pi bird sprite (make sure it's sele
 ![Bird Start Position](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/2%20Moving%20Sprites/2.3%20Bird%20Code.jpg?raw=true)  
 The next piece of code (still in the bird scripts section) will give the impression of movement by changing the costume of the bird to make it look like it's flapping its wings.  
 ![Bird Costume](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/2%20Moving%20Sprites/2.2%20Bird%20Code.jpg?raw=true)  
-
-
+The last piece of code for the bird is to create movement when the user presses a key. The bird should also fall when there is no interaction from the user. The code starts with a when I receive start followed by a forever loop. So for a slong as the game is running do whatever is inside the loop.  
+This consists of an if statement that checks if the up arrow is pressed, if it is, the bird rises up 5 and turns to point upwards, there is a brief delay of 0.05 seconds (this ensures the player doesnt rise too quickly).  
+The bird then turns to face downwards. Finally, in hte else section, if nothing is pressed, the bird falls -5.  
+At this stage students should save the file as Moving.sb and test it out, they could also experiment with different values in the degrees section and the y axis, or you may choose not to give more able students these values initially and let them discover what may work best.  
+  
+  
   
  
 
