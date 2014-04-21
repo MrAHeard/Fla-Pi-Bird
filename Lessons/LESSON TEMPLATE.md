@@ -10,7 +10,7 @@
 
 #####All students are able to
 
-#####Most atudents are able to
+#####Most students are able to
 
 
 ###Lesson Summary
