@@ -35,11 +35,15 @@ The next piece of code needs to be added to the section we added previously that
   
 The code above adds an if loop inside the forever, that checks the value of the variable delay (we will implement this in the pipe code), then beow the ```next costume``` line, an if statement has been added that checks the position of the pipe on the stage, if it has passed Fla-Pi, then a point is scored (you guessed it, still no crashing detection right now!). To ensure the score doesn't increase by more than one point there is a pause of 2 seconds. Again you may not want to tell students about the wait and see if they can work out why  the score is going up rapidly with the passing of one pipe! In the else section of the if statement, we simply stop the script, this ensures that actions in this script stop if the pipe doesn't make it past the bird, used as part of crash detection handling later on.  
   
-![Bird Moving Code](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/2%20Moving%20Sprites/2.1%20Bird%20Code.jpg?raw=true)  
-  
-
-  
 ####Pipe Code  
-
+Now it's time to add the relevant code to the Pipe sprite, here we set and use the delay variable. This is used to stop the calling of a new pipe if Fla-Pi hits a pipe. If we didn't use this, the game would end but pipes would still travel along the screen, even thought we can hide sprites, they can still interact with each other when hidden. This can cause problems so we are using a delay to halt them.  
+  
+We are not modifying previous pipe code initially, here we will add a new section of code. The first one adds a ```When Flag clicked``` command and below it we ```set delay to 1``` this means pipes can move, we hide and set the position of the pipe and stop the script. You may notice we ```set Score to 0``` again, this is because last time in the Fla-Pi code, we set it to zero when we start a new game, this time it's set to zero when the flag is pressed at the very beginning.  
+![Pipe variables](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/3%20Variables%20and%20Scoring/3.1%20Pipe%20Code.jpg?raw=true)  
+  
+We now add to the section of pipe code with the if statement in that checks the x position of the pipe. We are simply going to replace the ```forever``` loop with a ```repeat until delay = 0``` right at the bottom we will add a ```stop script```. This code keeps sending pipes across the screen until delay is set to sero, if it is the whole script is stopped.  
+![nextpipe code](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/3%20Variables%20and%20Scoring/3.2%20Pipe%20Code.jpg?raw=true)  
+  
+  
 ###Plenary
 Students 
