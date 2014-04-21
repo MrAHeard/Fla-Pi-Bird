@@ -19,10 +19,16 @@ Loss conditions are important in any competitive game, they allow the game to en
 ###Starter
 Show students the following video, ask them to consider what counts as a loss in the game, if they have played the game, ask them what happens when a game ends? Do they close the app and restart or can they start a new game easily?  
 [Flappy Bird Video](https://www.dropbox.com/s/bvcj17e3o8qunm9/Flappy%20Lesson%204%20Starter.mp4)  
-
-
-
+  
 ###Main Development
+Firstly, as always we will look at the code for Fla-Pi, this time we are going to modify one existing code block and we are going to add two new sections. The piece of code with the green flag nees a quick addition, here we are going to change it so that the bird points in the right direction when the game starts.  
+![Fla-Pi Direction](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/4%20Lose%20Conditions/4.2%20Bird%20Code.jpg?raw=true)  
+  
+Now we are going to add the first of our two new code blocks for the bird, the code below is the code that checks throughout the game if the bird is touching the pipe or touching the edge of the stage. If the bird is touching the pipe, the bird points downwards after colliding and continues to travel down the screen. This script then broadcasts the ```Game Over``` message which we will deal with shortly. It then hides the bird and waits 3 seconds. The reason it waits is to allow time for the Game Over script to perform its actions and it stops the bird colliding with further pipes that may come along.  
+
+If the bird is touching the edge of the screen it is forced to point downwards once more and a Game Over message is broadcast.  
+![Collision Detection](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/4%20Lose%20Conditions/4.1%20Bird%20Code.jpg?raw=true)  
+  
 
 
 ###Plenary
