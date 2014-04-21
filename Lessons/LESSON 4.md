@@ -33,6 +33,8 @@ If the bird is touching the edge of the screen it is forced to point downwards o
 The last piece of Fla-Pi code we need to implement in this lesson is that of what Fla-Pi should do in the event of "Game Over", the code below waits, retruns Fla-Pi to the start position, hides and then stopes the script.  
 ![Fla-Pi Game Over](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/4%20Lose%20Conditions/4.3%20Bird%20Code.jpg?raw=true)  
   
-  
+####Pipe Code  
+####Stage Code  
+
 
 ###Plenary
