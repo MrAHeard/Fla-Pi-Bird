@@ -28,4 +28,7 @@ We now need to give the stage some instructions as to what background should be 
 The next piece of code is what is actioned when the ```reset``` message is broadcast, it switches the background back to the intro screen and waits for the space bar to be pressed to start a new game. Once this happens, it switches to the ready background for 1 second, then switches to the in game background before resetting the delay to allow pipes to travel across the screen.  
 ![Stage Reset function](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/6%20In%20Game%20Reset/6.2%20Stage%20Code.jpg?raw=true)  
   
-###Plenary
+The game should now be saved as Fla-Pi Bird.sb and now the game is finished.  
+  
+###Plenary  
+What is the highest scores that students can score in Fla-Pi bird?
