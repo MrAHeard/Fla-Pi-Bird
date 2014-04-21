@@ -4,13 +4,13 @@
 This lesson aims to get students successfully moving graphics around the screen. The game requires the bird to move up briefly when the up arrow is pressed, and then it falls when there is no interaction. The pipes should enter the screen from the right and scroll from right to left.
 
 ###Learning Objectives
-Students will understand about user interaction and how to model movement usinf Scratch code.
+Students will understand about user interaction and how to model movement using Scratch code.
 
 ###Learning Outcomes
 
 #####All students are able to
-* Get the bird moving up and down
-* Get the pipes scrolling across the screen
+* Get the bird moving up and down.
+* Get the pipes scrolling across the screen.
 
 #####Most students are able to
 * Get the bird pointing in different directions based on their direction of movement.
@@ -25,6 +25,8 @@ Students will implement Scratch code to their previous game save to get the grap
 Talk about the various forms of user interaction in games (controllers, keyboard, gestures, etc). Then show this image on the screen and ask pupils to list any and all movement that could possibly be going on. They should also highlight what user interaction is required to play this game.
 ![Starter Image](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Screenshots/Lesson%202%20starter%20image.jpg?raw=true)
 ###Main Development
+We will start by adding some code to the Fla-Pi bird sprite (make sure it's selected) to get it appearing at the right place on the screen when the game starts.
+![Bird Start Position](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/2%20Moving%20Sprites/2.3%20Bird%20Code.jpg?raw=true)
 
   
  
