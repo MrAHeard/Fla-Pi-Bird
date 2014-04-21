@@ -39,5 +39,9 @@ Next we need to add code to Fla-Pi for when a pipe is successfully passed and a 
   
 Lastly for Fla-Pi, we need to add sounds for when the bird hits a pipe and for when it dies, again adding the right sounds to the places in the code previsoulsy used for collision detection:  
 ![Collision Sounds](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/5%20Adding%20Sounds/5.3%20Bird%20Code.jpg?raw=true)  
+  
+####Stage Code  
+The last sound effect we need to add is the whooshing sound to indicate a new game, this is added to the stage code as shown below:  
+![Stage Sound Effect](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/5%20Adding%20Sounds/Background%20Code.JPG?raw=true)  
 
 ###Plenary
