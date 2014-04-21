@@ -50,5 +50,5 @@ The game should be saved again (Moving.sb) and tested.
 ###Plenary
 Students can discuss what the consequence on the game would be if:  
 * the pipe movement value was doubled.  
-* the random number generated was changed form 1 to 5.
+* the random number generated was changed from 1 to 9 to 1 to 5.
 * the bird movement value decreased.
