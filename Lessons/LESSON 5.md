@@ -11,7 +11,7 @@ Students will understand why sound effects are placed where they are in the game
 #####All students are able to
 Add appropriate sound effects to the right parts of the game. 
 
-####Some students are able to  
+#####Some students are able to  
 Download and import their own sounds and put them in appropriate places in the game.
   
 ###Lesson Summary
@@ -45,5 +45,5 @@ The last sound effect we need to add is the whooshing sound to indicate a new ga
 ![Stage Sound Effect](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/5%20Adding%20Sounds/Background%20Code.JPG?raw=true)  
 
 ###Plenary  
-* Can students come up with any other stages in hte game where sound effects could be added?  
+* Can students come up with any other stages in the game where sound effects could be added?  
 * What kind of sounds would they add?
