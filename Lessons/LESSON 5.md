@@ -9,7 +9,10 @@ Students will understand why sound effects are placed where they are in the game
 ###Learning Outcomes
 
 #####All students are able to
-Add appropriate sound effects to the right parts of the game.  
+Add appropriate sound effects to the right parts of the game. 
+
+####Some students are able to  
+Download and import their own sounds and put them in appropriate places in the game.
   
 ###Lesson Summary
 In this lesson students will add provided sound effects to their game for scoring, loss of life, and new game.  
@@ -21,8 +24,9 @@ Explain to students that sounds in video games play an important part in the who
 [Mario Tube Sound](https://www.dropbox.com/s/jga18jfvmsudp43/Super%20Mario%20Tube%20Sound%20Effect.mp3)  
   
 
-
 ###Main Development
-
-
+This lesson comprises of adding some provided sounds at specific points in the game to add to the experience. Students may wish to download their own sound effects instead.  
+  
+To import sounds for a sprite, click on the sounds tab for that sprite and import the sounds you would like that sprite to be able to access as show below:  
+Firstly, sounds need to be added to the 
 ###Plenary
