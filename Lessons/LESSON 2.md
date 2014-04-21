@@ -24,7 +24,8 @@ Students will implement Scratch code to their previous game save to get the grap
 ###Starter
 Talk about the various forms of user interaction in games (controllers, keyboard, gestures, etc). Then show this image on the screen and ask pupils to list any and all movement that could possibly be going on. They should also highlight what user interaction is required to play this game.
 ![Starter Image](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Screenshots/Lesson%202%20starter%20image.jpg?raw=true)
-###Main Development
+###Main Development  
+####Fla-Pi Code
 We will start by adding some code to the Fla-Pi bird sprite (make sure it's selected) to get it appearing at the right place on the screen when the game starts.  
 ![Bird Start Position](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/2%20Moving%20Sprites/2.3%20Bird%20Code.jpg?raw=true)  
   
@@ -35,6 +36,14 @@ The last piece of code for the bird is to create movement when the user presses 
 ![Bird Moving Code](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/2%20Moving%20Sprites/2.1%20Bird%20Code.jpg?raw=true)  
   
 At this stage students should save the file as Moving.sb and test it out, they could also experiment with different values in the degrees section and the y axis, or you may choose not to give more able students these values initially and let them discover what may work best.  
+  
+####Pipe Code  
+Students now need to get the pipes moving across the screen, again, remembering that at this stage, the bird will be able to crash into the pipe with no consequence. Like the bird, you may choose not to give students the numerical values in this code and let them experiment with what they think works best.  
+  
+This first piece of code sets the initial start position of the pipe at the far right of the stage. Once it is positioned correctly, it is set to show. It then broadcasts a message ```nextpipe``` which will call the next piece of code below. The reason this is done is so that we can repeatedly call for a new pipe during the game.  
+![Pipe Position](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/2%20Moving%20Sprites/2.4%20Pipe%20Code.jpg?raw=true)  
+  
+This next piece of code waits until the ```nextpipe``` message is received, once it is the code shows the pipe on the screen, and then it continues to move across from right to left 4 moves at a time. If the x position of the pipe is lower -250 (left habd side of the stage) then it is hidden, it's position reset to the left of the screen and then its costume is changed to one of nine (varying heights of gap in the pipes) and it calls itself by broadcasting nextpipe again.
   
   
   
