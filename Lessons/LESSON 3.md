@@ -41,9 +41,15 @@ Now it's time to add the relevant code to the Pipe sprite, here we set and use t
 We are not modifying previous pipe code initially, here we will add a new section of code. The first one adds a ```When Flag clicked``` command and below it we ```set delay to 1``` this means pipes can move, we hide and set the position of the pipe and stop the script. You may notice we ```set Score to 0``` again, this is because last time in the Fla-Pi code, we set it to zero when we start a new game, this time it's set to zero when the flag is pressed at the very beginning.  
 ![Pipe variables](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/3%20Variables%20and%20Scoring/3.1%20Pipe%20Code.jpg?raw=true)  
   
-We now add to the section of pipe code with the if statement in that checks the x position of the pipe. We are simply going to replace the ```forever``` loop with a ```repeat until delay = 0``` right at the bottom we will add a ```stop script```. This code keeps sending pipes across the screen until delay is set to sero, if it is the whole script is stopped.  
+We now add to the section of pipe code with the if statement in that checks the x position of the pipe. We are simply going to replace the ```forever``` loop with a ```repeat until delay = 0``` right at the bottom we will add a ```stop script```. This code keeps sending pipes across the screen until delay is set to zero, if it is the whole script is stopped.  
 ![nextpipe code](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/3%20Variables%20and%20Scoring/3.2%20Pipe%20Code.jpg?raw=true)  
   
+The game should now be saved as Variables.sb and tested.  
   
-###Plenary
-Students 
+
+###Plenary  
+Consider using the following ideas as a plenary to this lesson:  
+* Can students come up with other variables that could be included in this game? 
+* How might we implement a timer in the game?
+* How could we make the game increase in difficulty using variables?  
+
