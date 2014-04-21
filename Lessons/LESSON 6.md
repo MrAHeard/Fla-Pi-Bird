@@ -1,7 +1,7 @@
 ##Lesson 6
 
 ###Introduction
-In this lesson we complete the game by finishing the in-game reset to allow a new game to be easily started when a game ends.
+In this lesson we complete the game by finishing the in-game reset to allow a new game to be easily started when a game ends. This lesson is fairly short to allow time to compete with theirt Fla-Pi Bird games at the end.
 
 ###Learning Objectives
 Understand how a new game state can be initiated following the end of the previous game.
@@ -15,6 +15,7 @@ Implement an in-game reset.
 In this lesson we need to add three small peices of code to allow the game to be restarted and the background to change appropriately.  
 
 ###Starter
+Students should load up their Sounds.sb file from last lesson and test it to make sure everything is working as it should.  
 
 ###Main Development
 ####Fla-Pi Code  
