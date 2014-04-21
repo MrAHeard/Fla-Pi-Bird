@@ -41,6 +41,8 @@ Now after selecting the Pipe sprite we are going to add one new script that deal
 Now we need to add some code to the Game Over sprite to tell it to show when the game is in a state of Game Over. The code for this shows the graphic, waits a second and hides then stops the script.  
 ![Game Over Code](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/4%20Lose%20Conditions/4.1%20Game%20Over.jpg?raw=true)  
   
+This game should now be saved as lose.sb and tested.  
+  
 ###Plenary
 Students should predict what effect the following modifications would have on the game:  
 * Not having a 1 second wait in the Game Over script they added.
