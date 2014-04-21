@@ -22,7 +22,11 @@ As mentioned earlier in this series, there is an assumption made that students k
   
 
 ###Main Development  
-####Fla-Pi Code
+The first thing to do in this lesson is to get students to make two new variables form the Variable section within Scratch. Firstly Score, available for all sprites, and secondly, delay, again available to all sprites.  
+  
+  
+####Fla-Pi Code  
+Now the variables have been created, we need to add the relevant bits of code into our game. Firstly, in the piece of Fla-Pi bird code that detects a keypress, straight after the ```When I receive Start``` line, place a block setting the Score to 0, this ensures at the start of every new game the score is zero.  
 
 ![Bird Start Position](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/2%20Moving%20Sprites/2.3%20Bird%20Code.jpg?raw=true)  
   
