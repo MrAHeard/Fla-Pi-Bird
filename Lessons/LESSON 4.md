@@ -37,6 +37,9 @@ The last piece of Fla-Pi code we need to implement in this lesson is that of wha
 Now after selecting the Pipe sprite we are going to add one new script that deals with the Game Over scenario to stop the nextpipe command being called. By adding the code below we set the variable 1 to 0 and hide the pipe, this causes the nextpipe command to stop the whole script until it is specifically called again. 
 ![Pipe Game Over](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/4%20Lose%20Conditions/4.1%20Pipe%20Code.jpg?raw=true)  
   
+####Game Over Code  
+Now we need to add some code to the Game Over sprite to tell it to show when the game is in a state of Game Over. The code for this shows the graphic, waits a second and hides then stps the script.  
+![Game Over Code](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/4%20Lose%20Conditions/4.1%20Game%20Over.jpg?raw=true)  
 
 ####Stage Code  
 
