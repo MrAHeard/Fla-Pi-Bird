@@ -20,6 +20,17 @@ Loss conditions are important in any competitive game, they allow the game to en
 Show students the following video, ask them to consider what counts as a loss in the game, if they have played the game, ask them what happens when a game ends? Do they close the app and restart or can they start a new game easily?  
 <video src="https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Videos/Flappy%20Lesson%204%20Starter.mp4" width="320" height="200" controls preload></video>
 
+
+
+
+<script src="http://vjs.zencdn.net/4.0/video.js"></script>
+
+<video id="pelican-installation" class="video-js vjs-default-skin" controls
+preload="auto" width="683" height="384" poster="/static/screencasts/pelican-installation.png"
+data-setup="{}">
+<source src="https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Videos/Flappy%20Lesson%204%20Starter.mp4" type='video/mp4'>
+</video>
+
 ###Main Development
 
 
