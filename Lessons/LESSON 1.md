@@ -8,9 +8,9 @@ The objective of this lesson is to understand what code needs to be added to the
 
 ###Learning Outcomes
 
-#####All Students Are Able To
+#####All students are able to
 Get the bird and the pipe moving the way illustrated.
-#####Most Students Are Able To
+#####Most atudents are able to
 Change the values so that the bird and the pipe move more quickly.
 
 ###Lesson Summary
