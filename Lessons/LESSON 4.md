@@ -8,9 +8,9 @@ The main objective of this lesson is to deal with loss conditions in the game.
 
 ##Learning Outcomes
 
-###All students are able to
+####All students are able to
 Implement loss conditions to produce a Game Over state in the game.  
-###Most students are able to
+####Most students are able to
 Make suitable predictions about what the code will do. 
 
 ##Lesson Summary
