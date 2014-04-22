@@ -1,17 +1,15 @@
 ##Lesson 1
 
 ###Introduction
-In this lesson, students will start to get the graphics moving on screen. At this stage there will be no scoring of points, dying or interaction between sprites, this session simply gets the bird moving up and down, and the pipe moving across the screen. The assumption is made that students undertaking this task are already familiar with Scratch in terms of creating variables and broadcasting messages within the game, If this is not the case, this will need to be considered before starting development.
+In this lesson, students will import the graphics required for the game.
 
 ###Learning Objectives
-The objective of this lesson is to understand what code needs to be added to the game in order for the sprites to move the way they need to in Fla-Pi Bird.
+The objective of this lesson is to import graphics into the game.
 
 ###Learning Outcomes
 
 #####All students are able to
-Get the bird and the pipe moving the way illustrated.
-#####Most atudents are able to
-Change the values so that the bird and the pipe move more quickly.
+Import graphics into Scratch ready to code Fla-Pi Bird.
 
 ###Lesson Summary
 The lesson will begin with a small discussion on copyright and plagiarism to ensure students understand the importance of crediting original sources when using it for their own purposes.Students will then begin to code a game in Scratch. The code illustrated in this lesson will allow students to successfully get sprites moving on the screen in the direction they need them to in order to fulfil the game.
@@ -53,7 +51,7 @@ Place the word copyright on the board to provoke a discussion on what copyright 
 The code above hides the game over graphic when the game starts, this graphic will be used later on and sdisplayed when a game ends.  
 * The code for the stage (background) now needs to be added. Here, the code switches to the game intro screen when the game starts. Then the game waits for the space key to be pressed to start the game, when pressed, the game waits 1 second, and then broadcasts a message called start, at this point the background is switched to the playing background. This concludes this lesson.  
 ![Stage code](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/1%20Graphics/Stage%20Code.JPG?raw=true)  
-* Students should save the file as ```Fla-Pi Graphics.sb```   
+* Students should save the file as ```Graphics.sb```   
 
 
 ###Plenary
