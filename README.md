@@ -1,6 +1,6 @@
 #Introduction
-This sequence of lessons will guide you through the stages of creating your very own game called Fla-Pi Bird. You will begin by adding graphics before moving on to movement, variables, loops, and win lose conditions before finishing it all off with some cools sounds.
-##Students Will Learn
+This sequence of lessons will guide you through the stages of creating your very own game called Fla-Pi Bird. You will begin by adding graphics before moving on to movement, variables, loops, and win lose conditions before finishing it all off with some cools sounds.  
+
 ##Computing Programme of Study Met 
 **KS2**
  - Use sequence, selection, and repetition in programs; work with variables and various forms of input and output
