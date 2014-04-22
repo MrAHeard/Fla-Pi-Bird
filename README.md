@@ -12,11 +12,11 @@ For this series of lessons, Scratch game saves are provided at various points to
 
 ###Lessons
  - [Lesson 1 - Adding graphics and starting a new game](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Lessons/LESSON%201.md)
- - Lesson 2 – Moving sprites
- - Lesson 3 – Variables and scoring
- - Lesson 4 – Lose conditions
- - Lesson 5 – Adding Sound
- - Lesson 6 - In-Game Reset
+ - [Lesson 2 – Moving sprites](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Lessons/LESSON%202.md)
+ - [Lesson 3 – Variables and scoring](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Lessons/LESSON%203.md)
+ - [Lesson 4 – Lose conditions](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Lessons/LESSON%204.md)
+ - [Lesson 5 – Adding Sound](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Lessons/LESSON%205.md)
+ - [Lesson 6 - In-Game Reset](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Lessons/LESSON%206.md)
 
 # Licence
 
