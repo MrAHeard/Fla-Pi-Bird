@@ -45,7 +45,7 @@ This first piece of code sets the initial start position of the pipe at the far 
   
 This next piece of code waits until the ```nextpipe``` message is received, once it is the code shows the pipe on the screen, and then it continues to move across from right to left 4 moves at a time. If the x position of the pipe is lower -250 (left hand side of the stage) then it is hidden, its position is reset to the left of the screen and then its costume is changed to one of nine imported in lesson 1 by generating a random number between 1 and 9 (varying heights of gap in the pipes) and it calls itself by broadcasting nextpipe again.  
   
-The game should be saved again (Moving.sb) and tested.  
+The game should be saved as Moving.sb and tested.  
   
 ##Plenary
 Students can discuss what the consequence on the game would be if:  
