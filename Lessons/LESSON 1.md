@@ -51,7 +51,7 @@ Place the word copyright on the board to provoke a discussion on what copyright 
 The code above hides the game over graphic when the game starts, this graphic will be used later on and is displayed when a game ends.  
 * The code for the stage (background) now needs to be added. Here, the code switches to the game intro screen when the game starts. Then the game waits for the space key to be pressed to start the game, when pressed, the game waits 1 second, and then broadcasts a message called start, at this point the background is switched to the playing background. This concludes this lesson.  
 ![Stage code](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Code%20Blocks%20by%20Lesson/1%20Graphics/Stage%20Code.JPG?raw=true)  
-* Students should save the file as ```Graphics.sb```   
+* Students should save the file as Graphics.sb 
 
 ##Plenary
 Students should be made aware once again of the importance of ethical responsibilities when writing software to avoid potential consequences.  
