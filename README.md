@@ -11,7 +11,7 @@ This sequence of lessons will guide you through the stages of creating your very
 For this series of lessons, Scratch game saves are provided at various points to enable students to start at different stages. The game sounds and graphics are also included.
 
 ###Lessons
- - Lesson 1 - Adding graphics and starting a new game
+ - [Lesson 1 - Adding graphics and starting a new game](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Lessons/LESSON%201.md)
  - Lesson 2 – Moving sprites
  - Lesson 3 – Variables and scoring
  - Lesson 4 – Lose conditions
