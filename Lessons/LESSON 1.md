@@ -4,7 +4,7 @@
 In this lesson, students will import the graphics required for the game. There is an assumption in these lessons that students are familiar with scratch and how to select code, create variables, and understand about broadcasting messages. If this is not the case then you could add in extra learning opportunities to cover these things.
 
 ##Learning Objectives
-The objective of this lesson is to import graphics into the game.
+The objective of this lesson is to import graphics into the game and understand that sprites in Scratch can have different costumes to change appearance.
 
 ##Learning Outcomes
 
