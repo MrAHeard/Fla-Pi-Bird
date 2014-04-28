@@ -1,4 +1,4 @@
-#Control Fla-Pi Bird witha Pibrella
+#Control Fla-Pi Bird with a Pibrella
 
 ##Code changes
 To control Fla-Pi Bird using the lovely big red button on a Pibrella, simply change the two pieces of code in the Fla-Pi Bird sprite to the following (this is using Scratch GPIO5):  
