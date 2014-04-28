@@ -1,6 +1,6 @@
 #Control Fla-Pi Bird with a Pibrella
 
-How would you like to now change your code so you can control Fla-Pi Bird with the button on a Pibrella like below:  
+How would you like to now change your code so you can control Fla-Pi Bird with the button on a Pibrella like in the link below?  
 [Pibrella controlled Fla-Pi Bird](https://vimeo.com/93175140)  
   
 
