@@ -27,7 +27,7 @@ Place the word copyright on the board to provoke a discussion on what copyright 
 
 * Students will then import the 3 different costumes from the stage in the same way, these can be found below:  
 
-![Game Intro Screen](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Background.png?raw=true)  
+![Game Intro Screen](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Intro.png?raw=true)  
 ![Ready Screen](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Ready.fw.png?raw=true)  
 ![Game Background](https://github.com/AllenHeard/Fla-Pi-Bird/blob/master/Graphics/Background.png?raw=true)  
 
